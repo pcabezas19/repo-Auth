@@ -1,0 +1,72 @@
+{
+    "idPlatform": 2,
+    "idStatus": 2,
+    "person": {
+        "idType": 1,
+        "attributes": [
+            {
+                "description": "first_name",
+                "value": "Prueba"
+            },
+            {
+                "description": "last_name",
+                "value": "Prueba"
+            },
+            {
+                "description": "born_date",
+                "value": "1993-01-20"
+            },
+            {
+                "description": "gender",
+                "value": "m"
+            }
+        ],
+        "emails": [
+            {
+                "idType": 6,
+                "email": "pruebapruebas@gmail.com"
+            }
+        ],
+        "devices": [
+            {
+                "idPlatform": 1,
+                "type": {
+                    "description": "motorola e5 play",
+                    "resolution_width": 720,
+                    "resolution_height": 1280
+                },
+                "hash": "ME5P"
+            }
+        ],
+        "telephones": [
+            {
+                "idType": 1,
+                "country": "AR",
+                "telephone": "+5492213640000"
+            }
+        ],
+        "documents": [
+            {
+                "idType": 1,
+                "document": 55555555
+            }
+        ],
+        "addresses": [
+            {
+                "idType": 2,
+                "metadata": {
+                    "department": "D",
+                    "floor": "1"
+                },
+                "description": "TUCUMAN 1667, CABA"
+            }
+        ]
+    },
+    "idGroup": 100,
+    "platformName": "SSameghini Productor",
+    "password": "Steplix123!",
+    "payload": {
+        "token": false
+    },
+    "ignoreCaptcha": true
+}

@@ -1,0 +1,17 @@
+{
+    "baseUrl": "http://ag-testing-nlb-c98ac8a0bf870245.elb.us-east-1.amazonaws.com:64025",
+    "env": {
+        "64025": "http://ag-testing-nlb-c98ac8a0bf870245.elb.us-east-1.amazonaws.com:64025",
+        "64004": "http://ag-testing-nlb-c98ac8a0bf870245.elb.us-east-1.amazonaws.com:64004",
+        "64030": "http://ag-testing-nlb-c98ac8a0bf870245.elb.us-east-1.amazonaws.com:64030"
+    },
+    "video": false,
+    "screenshotOnRunFailure": false,
+    "fixturesFolder": "tests/cypress/fixtures",
+    "integrationFolder": "tests/cypress/integration",
+    "pluginsFile": "tests/cypress/plugins/index.js",
+    "screenshotsFolder": "tests/cypress/screenshots",
+    "videosFolder": "tests/cypress/videos",
+    "downloadsFolder": "tests/cypress/downloads",
+    "supportFile": "tests/cypress/support/index.js"
+}
